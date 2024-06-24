@@ -1,0 +1,3 @@
+# Copy and paste this file in project directory and rename to .env
+RECORDS_DIRECTORY="path_with_images"
+MODEL_PATH="./model"
